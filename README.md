@@ -1,8 +1,8 @@
-# react-markdown-previewer
+# Markdown Previewer
 
-Live preview of written markdown side-by-side. A project for FreeCodeCamp.
+Live preview of written markdown as HTML side-by-side. Built using React.
 
-## Usage
+## Installation & Usage
 
 1.  `git clone https://github.com/ViscoseSole/react-markdown-previewer`
 2.  `npm install`
