@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+  
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 100px;
+}
+
+#markdown-input {
+  min-height: 100px;
+  max-width: 99.7%;
+  border-radius: 5px;
+  outline: none;
+}
+#markdown-preview {
+  background: white;
+  min-height: 100px;
+  margin-top: 1px;
+  margin-left: 50px;
+}
